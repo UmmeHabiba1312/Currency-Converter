@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 import chalk from "chalk";
 console.log(chalk.greenBright.bold("\n \t Welcome to code-With 'Umm e Habiba' - Currency Converter\n"));
